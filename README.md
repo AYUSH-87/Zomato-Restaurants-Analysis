@@ -45,12 +45,6 @@ This project involves a comprehensive analysis of Zomato restaurant data using a
 ## Get Started
 [![Clone](https://img.shields.io/static/v1?label=Clone&message=Repository&color=blue&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau.git) [![Push](https://img.shields.io/static/v1?label=Push&message=Changes&color=green&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/compare) [![Pull](https://img.shields.io/static/v1?label=Pull&message=Requests&color=orange&logo=git)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/pulls) [![Issues](https://img.shields.io/static/v1?label=Raise&message=Issues&color=red&logo=github)](https://github.com/virajbhutada/Zomato-Restaurants-Analysis-Excel-PowerBI-SQL-Tableau/issues)
 
-### Connect with Me  
-
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-lightblue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)
-
----
-
 ### Why This Project?
 This project was created to demonstrate proficiency in data analysis and visualization tools such as Excel, SQL, Power BI, and Tableau. By analyzing Zomato restaurant data, valuable insights were obtained into industry trends, enabling informed decision-making and strategic planning.
 
